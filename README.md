@@ -4,5 +4,7 @@
 * 2.使用JavaFx
 * 3.使用exe4j进行项目打包
 * 4.软件上的图片视频都是本地的
-##image
+## image
+* 1.首页
 .<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/1.png" /></div>
+* 2.
