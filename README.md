@@ -5,4 +5,4 @@
 * 3.使用exe4j进行项目打包
 * 4.软件上的图片视频都是本地的
 ##image
-.<div align=center><img src="https://github.com/wzdnh/SiChu/img/1.png" /></div>
+.<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/1.png" /></div>
