@@ -10,9 +10,9 @@
 * 2.美食视频播放界面
 .<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/2.png" width="450" height="300" /></div>
 * 3.食谱界面
-<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/3.png" width="450" height="300" /></div>
+.<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/3.png" width="450" height="300" /></div>
 * 4.私厨论坛
-<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/4.png" width="450" height="300" /></div>
+.<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/4.png" width="450" height="300" /></div>
 * 5.登录注册界面
-<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/5.png" width="450" height="300" /></div>
+.<div align=center><img src="https://github.com/wzdnh/SiChu/blob/master/SiChu/img/5.png" width="450" height="300" /></div>
 
